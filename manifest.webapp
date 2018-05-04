@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": "1.0",
   "name": "MyTestGame",
@@ -17,3 +18,24 @@
   "orientation": "portrait-primary",
   "fullscreen": "true"
 }
+=======
+{
+  "version": "1.0",
+  "name": "MyTestGame",
+  "description": "MyTestGame",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/res/icon.png"
+  },
+  "developer": {
+    "name": "Cocos2d-html5",
+    "url": "http://cocos2d-x.org/"
+  },
+  "default_locale": "en",
+  "installs_allowed_from": [
+    "*"
+  ],
+  "orientation": "portrait-primary",
+  "fullscreen": "true"
+}
+>>>>>>> 88390bba774954e073317bfda5cc3836b66c6ff0

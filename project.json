@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "project_type": "javascript",
 
@@ -19,3 +20,26 @@
         "src/effect.js" 
     ]
 }
+=======
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/app.js",
+        "src/game.js",
+        "src/control.js",
+        "src/effect.js" 
+    ]
+}
+>>>>>>> 88390bba774954e073317bfda5cc3836b66c6ff0
