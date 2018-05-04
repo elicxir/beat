@@ -17,10 +17,6 @@ var EFFECT = cc.Layer.extend({
                     y:80+110
                 });
 
-
-
-
-
                 this.eftime[c]++;
 
                 if(this.eftime[c]>26){

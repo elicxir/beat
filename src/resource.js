@@ -46,6 +46,7 @@ var res = {
     down_png : "res/down.png",
 
     se1:"res/hit.wav",
+    se2:"res/cursor8.mp3",
 
     p_ef:"res/ef.png",
     gr_ef:"res/gef.png",
